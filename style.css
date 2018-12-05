@@ -5,3 +5,18 @@ body {
     width: '960px';
     font-size: '18px' 
 }
+header  {
+	background: #ccc;
+}
+nav { 
+    background: #ccc;
+}
+section {
+    background: #ccc;
+}
+aside {
+    background: #ccc;
+}
+footer {
+    background: #ccc;
+}
